@@ -1,0 +1,79 @@
+{
+    "info": {
+        "id": "566176",
+        "name": "7th Heaven",
+        "cloudinaryImageId": "4cba3ef39d757e401711ee477df565fb",
+        "locality": "Narayan Bagh Rd",
+        "areaName": "Shivaji Nagar",
+        "costForTwo": "₹399 for two",
+        "cuisines": [
+            "Bakery",
+            "Desserts",
+            "Indian"
+        ],
+        "avgRating": 4.4,
+        "veg": true,
+        "parentId": "19",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "50+",
+        "sla": {
+            "deliveryTime": 36,
+            "lastMileTravel": 2.3,
+            "serviceability": "SERVICEABLE",
+            "slaString": "36 mins",
+            "lastMileTravelString": "2.3 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2024-01-20 22:00:00",
+            "opened": true
+        },
+        "badges": {
+            "imageBadges": [
+                {
+                    "imageId": "v1695133679/badges/Pure_Veg111.png",
+                    "description": "pureveg"
+                }
+            ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {
+                    "badgeObject": [
+                        {
+                            "attributes": {
+                                "description": "pureveg",
+                                "imageId": "v1695133679/badges/Pure_Veg111.png"
+                            }
+                        }
+                    ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "₹120 OFF",
+            "subHeader": "ABOVE ₹199",
+            "discountTag": "FLAT DEAL"
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+        "link": "https://www.swiggy.com/restaurants/7th-heaven-narayan-bagh-rd-shivaji-nagar-jhansi-566176",
+        "type": "WEBLINK"
+    }
+}
